@@ -3,6 +3,8 @@
 **Bridging cutting-edge research with global industrial applications.**
 
 AI Engineer specializing in multimodal systems and computer vision, with a proven track record of translating academic research into production-ready solutions. Currently completing M.S. in Digital Analytics at Yonsei University, with research experience at Carnegie Mellon University.
+
+
 ---
 
 ## 📫 Connect
