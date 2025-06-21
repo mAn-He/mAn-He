@@ -3,6 +3,16 @@
 **Bridging cutting-edge research with global industrial applications.**
 
 AI Engineer specializing in multimodal systems and computer vision, with a proven track record of translating academic research into production-ready solutions. Currently completing M.S. in Digital Analytics at Yonsei University, with research experience at Carnegie Mellon University.
+---
+
+## 📫 Connect
+
+<p>
+  <a href="mailto:hoseungkangg@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/hoseung-6788531b5"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://drive.google.com/file/d/1Bjzp9_4m-6XFnRPPnbsZAoLvjm2llgtb/view?usp=drive_link"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"></a>
+</p>
+
 
 ---
 
@@ -78,16 +88,5 @@ AI Engineer specializing in multimodal systems and computer vision, with a prove
 - **Communication**: Instructed Korean language in English at Pittsburgh Community Library.
 - **Publication**: Authored and presented at multiple international AI conferences.
 
----
-
-## 📫 Connect
-
-<p>
-  <a href="mailto:hoseungkangg@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/hoseung-6788531b5"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://drive.google.com/file/d/1Bjzp9_4m-6XFnRPPnbsZAoLvjm2llgtb/view?usp=drive_link"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"></a>
-</p>
-
----
 
 *"Committed to applying advanced AI technologies to solve fundamental challenges across traditional industries on a global scale."*
