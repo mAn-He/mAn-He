@@ -1,94 +1,52 @@
-# Ho Seung Kang | AI Research Engineer
+# Ho-Seung Kang (강호승)
+> [cite_start]A problem-solving researcher who tackles real-world, persistent challenges using data and AI. [cite: 189, 193]
 
-**Bridging cutting-edge research with global industrial applications.**
+<br>
 
-AI Engineer specializing in multimodal systems and computer vision, with a proven track record of translating academic research into production-ready solutions. Currently completing M.S. in Digital Analytics at Yonsei University, with research experience at Carnegie Mellon University.
+## 🙋‍♂️ About Me
+- [cite_start]I transitioned from Forest Products & Biotechnology to AI to solve real-world inefficiencies, expanding my expertise as a Visiting Scholar at Carnegie Mellon University. [cite: 189, 201]
+- [cite_start]I enjoy achieving quantifiable results by identifying and solving the root causes of problems, whether by redesigning data structures or overcoming system limitations. [cite: 190, 191, 192]
+- [cite_start]Currently, my research is focused on Multimodal Learning and AI for Science, with a deep interest in Materials Informatics. [cite: 193]
 
+<br>
 
----
-
-## 📫 Connect
-
-<p>
-  <a href="mailto:hoseungkangg@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/hoseung-6788531b5"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://drive.google.com/file/d/1Bjzp9_4m-6XFnRPPnbsZAoLvjm2llgtb/view?usp=drive_link"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"></a>
+## 🔗 Links & Contact
+<p align="left">
+  <a href="https://www.linkedin.com/in/hoseung-6788531b5/" target="_blank"><img src="https://img-shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.notion.so/Ho-Seung-Kang-e15865328aea4d3a81a709b5522513a9" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"></a>
+  <a href="mailto:hoseungkangg@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
+<br>
 
----
+## 🛠️ Tech Stack & Skills
+- **Languages**: Python, C++
+- **Frameworks**: PyTorch, Hugging Face (Transformers, PEFT), Scikit-learn
+- **MLOps & Tools**: Git, ONNX
+- [cite_start]**Domains**: Computer Vision, Multimodal Learning, AI for Science [cite: 150, 193, 197]
 
-## 🚀 Key Achievements
+<br>
 
-- **`96.04%` Accuracy** on person re-identification benchmark using a novel Stable Diffusion approach.
-- **`32%` Error Reduction** in fashion demand forecasting through multimodal AI integration.
-- **`117%` Speed Improvement** (12→26 FPS) in real-time embedded AI systems.
-- **`5` International Publications** in computer vision and multimodal learning.
-- **`Cross-language` AI Systems** including a specialized Russian-Korean transcription platform.
+## ✨ Featured Projects
+* **[Background-Robust Person Re-ID via Multimodal Enhancement](https://github.com/mAn-He/kpr_mm)**
+    * [cite_start]Designed and implemented a Zero-Shot network to improve the generalization performance of Person Re-ID in new environments without retraining, leveraging Generative AI (Stable Diffusion) and multimodal techniques (LLaVA, CLIP). [cite: 127, 128, 244, 245]
+    * `Multimodal`, `Generative AI`, `Person Re-ID`, `PyTorch`, `WACV Submitted`
 
----
+* **[Science VQA Model based on Gemma-CLIP](https://github.com/mAn-He/gemmaclip)**
+    * [cite_start]Engineered a lightweight, End-to-End VLM architecture specialized for the 'AI for Science' domain by combining a lightweight language model (Gemma) with an image-text understanding model (CLIP) and applying PEFT (QLoRA). [cite: 136, 152, 224]
+    * `VLM`, `AI for Science`, `PEFT`, `Gemma`, `CLIP`
 
-## 🛠️ Technical Expertise
+* **[AI-Powered Autonomous Cannon System Optimization](https://github.com/mAn-He/cmu-autonomous-cannon)**
+    * [cite_start]Resolved a communication bottleneck in a constrained edge device environment, improving system processing speed (FPS) by 116% through software optimization alone, including a custom 'Frame Drop' algorithm and ONNX model conversion. [cite: 71, 72, 74, 230, 231, 232]
+    * `System Optimization`, `Edge AI`, `C++`, `ONNX`, `Team Leadership`
 
-**AI & Machine Learning**
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white">
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
-  <img src="https://img.shields.io/badge/YOLO-%2300FFFF.svg?style=for-the-badge&logo=YOLO&logoColor=black">
-  <img src="https://img.shields.io/badge/Stable%20Diffusion-222222?style=for-the-badge&logo=stablediffusion&logoColor=white">
-  <img src="https://img.shields.io/badge/BERT-000000?style=for-the-badge&logo=bert&logoColor=white">
-</p>
+* **[AI-Based Anomaly Detection & Segmentation in Aquaculture](https://github.com/mAn-He/olive_flounder)**
+    * [cite_start]Resolved data ambiguity by applying a Data-Centric labeling strategy that redefined overlapping objects as a 'third class', improving the F1 Score by 7.8%p without any model changes. [cite: 40, 41, 44, 238, 239]
+    * `Data-Centric AI`, `Semantic Segmentation`, `Problem Solving`
 
-**Production Systems & Deployment**
-<p>
-  <img src="https://img.shields.io/badge/ONNX-0051FF?style=for-the-badge&logo=onnx&logoColor=white">
-  <img src="https://img.shields.io/badge/NVIDIA%20Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white">
-</p>
+<br>
 
----
-
-## 💡 Featured Projects
-
-### AI-Powered Autonomous System | *Carnegie Mellon University*
-- **Role**: Led a 7-person international team in developing a real-time targeting system.
-- **Method**: Optimized a YOLO model for embedded deployment (Jetson) and integrated voice recognition.
-- **Result**: Achieved **`80%` detection accuracy** and **`90%` voice recognition** in real-time.
-
-### Person Re-Identification Research | *CMU → Continued Research*
-- **Role**: Architected a novel data augmentation pipeline using generative AI (Stable Diffusion).
-- **Method**: Addressed data scarcity and imbalance issues in the Market-1501 benchmark.
-- **Result**: Advanced model accuracy from `82%` to **`96.04%`**, achieving SOTA-level performance.
-
-### Multimodal Fashion Forecasting | *Industry Partnership*
-- **Role**: Built a prediction system integrating image, text, and metadata analysis.
-- **Method**: Fused features from different modalities to capture complex fashion trends.
-- **Result**: **Reduced forecast error by `32%`** compared to baseline, enabling data-driven inventory management.
-
-### Cross-Language Meeting Transcription | *Independent Development*
-- **Role**: Developed a Russian-Korean transcription platform from scratch.
-- **Method**: Leveraged OpenAI's Whisper and collaborated with domain experts for fine-tuning.
-- **Result**: Demonstrated rapid adaptation and development of AI solutions for niche domains.
-
----
-
-## 🎓 Education & Recognition
-
-| Institution                  | Degree / Field                        | GPA              |
-| ---------------------------- | ------------------------------------- | ---------------- |
-| **Yonsei University** | M.S. Digital Analytics                | **4.12 / 4.3** |
-| **Carnegie Mellon University** | Visiting Scholar, AI & Computer Science | -                |
-| **Kookmin University** | B.S. Forest Products & Biotechnology  | **3.94 / 4.5** |
-
-- **Awards**: Excellence Award (KOTRA), Top 5% (LG Aimers), Multiple Conference Publications
-
----
-
-## 🌍 Global Experience
-
-- **Leadership**: Coordinated a cross-cultural research team at CMU.
-- **Communication**: Instructed Korean language in English at Pittsburgh Community Library.
-- **Publication**: Authored and presented at multiple international AI conferences.
-
-
-*"Committed to applying advanced AI technologies to solve fundamental challenges across traditional industries on a global scale."*
+## 📜 Publications
+- **Kang, H.** (1st Author). (2024). *Background-Robust Person Re-ID via Multimodal Enhancement*. [cite_start]Submitted to WACV 2026. [cite: 247, 248]
+- **Kang, H.** (1st Author). (2024). *A Study of Segmentation Performance Improvement Based on Non-OOI Object Separation in Olive Flounder Images*. [cite_start]ICHIAI 2024. [cite: 249, 250, 251]
+- Ryu, E., ..., **Kang, H.**, et al. (2024). *Examining the impacts of a movie trailer on box office performance with multi-modal deep learning approaches*. [cite_start]Journal of Intelligence and Information Systems (KCI). [cite: 252, 253]
