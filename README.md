@@ -20,8 +20,8 @@
 <br>
 
 ## 🛠️ Tech Stack & Skills
-- **Languages**: Python, C++
-- **Frameworks**: PyTorch, Hugging Face (Transformers, PEFT), Scikit-learn
+- **Languages**: Python, 
+- **Frameworks**: PyTorch, Pytorch, Hugging Face (Transformers, PEFT), Scikit-learn
 - **MLOps & Tools**: Git, ONNX
 - **Domains**: Computer Vision, Multimodal Learning, AI for Science
 
