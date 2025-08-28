@@ -36,7 +36,7 @@
     * Engineered a lightweight, End-to-End VLM architecture specialized for the 'AI for Science' domain by combining a lightweight language model (Gemma) with an image-text understanding model (CLIP) and applying PEFT (QLoRA).
     * `VLM`, `AI for Science`, `PEFT`, `Gemma`, `CLIP`
 
-* **[AI-Powered Autonomous Cannon System Optimization](https://github.com/mAn-He/cmu-autonomous-cannon)**
+* **[AI-Powered Autonomous Cannon System Optimization](https://github.com/mAn-He/John_Wick)**
     * Resolved a communication bottleneck in a constrained edge device environment, improving system processing speed (FPS) by 116% through software optimization alone, including a custom 'Frame Drop' algorithm and ONNX model conversion.
     * `System Optimization`, `Edge AI`, `C++`, `ONNX`, `Team Leadership`
 
