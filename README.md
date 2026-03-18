@@ -6,7 +6,7 @@
 ## 🙋‍♂️ About Me
 - I transitioned from Forest Products & Biotechnology to AI to solve real-world inefficiencies, expanding my expertise as a Visiting Scholar at Carnegie Mellon University.
 - I enjoy achieving quantifiable results by identifying and solving the root causes of problems, whether by redesigning data structures or overcoming system limitations.
-- Currently, my research is focused on Multimodal Learning and AI for Science, with a deep interest in Materials Informatics.
+- Currently, my research is focused on Multimodal Learning and Computer Vision
 
 <br>
 
